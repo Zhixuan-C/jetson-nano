@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <node name="teleop_key_control" pkg="jetauto_peripherals" type="teleop_key_control.py" output="screen"/>
+</launch>
